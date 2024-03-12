@@ -8,3 +8,6 @@
 # file: W2D1_CT 
 - contains some codeing task for practice.
 - HERE HT TASKS ARE GIVEN .
+
+# file W2D2_CT_10_12_23_WHILE_LOOP
+- THIS FILE CONTAINS WHILE LOOP TASKS .
