@@ -7,3 +7,4 @@
 
 # file: W2D1_CT 
 - contains some codeing task for practice.
+- HERE HT TASKS ARE GIVEN .
