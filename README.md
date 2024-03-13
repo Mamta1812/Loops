@@ -9,7 +9,7 @@
 - contains some codeing task for practice.
 - HERE HT TASKS ARE GIVEN .
 
-# file W2D2_CT_10_12_23_WHILE_LOOP
+# file : W2D2_CT_10_12_23_WHILE_LOOP
 - THIS FILE CONTAINS WHILE LOOP TASKS .
-# file :LAB-W2d2-CT
+# file : LAB-W2d2-CT
 - this file contains while loop class Task
