@@ -11,5 +11,7 @@
 
 # file : W2D2_CT_10_12_23_WHILE_LOOP
 - THIS FILE CONTAINS WHILE LOOP TASKS .
+- This contains explaination .
+  
 # file : LAB-W2d2-CT
-- this file contains while loop class Task
+- This file contains while loop class Task
