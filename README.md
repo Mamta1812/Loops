@@ -15,3 +15,4 @@
   
 # file : LAB-W2d2-CT
 - This file contains while loop class Task
+- practice class task
