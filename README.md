@@ -18,3 +18,5 @@
 - practice class task
 
 # FILE : Lab-w2d2-HT
+- SOME MORE TASKS ON LOOPS
+- VERY IMPORTANT CONCEPT.
