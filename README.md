@@ -5,6 +5,7 @@
 - it will help to learn for loop from base .
 - here in this file there are class tasks .
 - here the class task are not in line they are jumbled.
+- beacuse here i had given the tasks topic wise.
 
 # file: W2D1_CT 
 - contains some codeing task for practice.
