@@ -11,6 +11,8 @@
 - contains some codeing task for practice.
 - HERE HT TASKS ARE GIVEN .
 
+# while loop explaination and changes.
+
 # file : W2D2_CT_10_12_23_WHILE_LOOP
 - THIS FILE CONTAINS WHILE LOOP TASKS .
 - This contains explaination .
