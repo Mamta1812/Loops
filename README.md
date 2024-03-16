@@ -3,7 +3,8 @@
 # file : w2d1_ct_for_loop 
 - contains all the concepts for for loop basics.
 - it will help to learn for loop from base .
-- here in this file there are class tasks . 
+- here in this file there are class tasks .
+- here the class task are not in line they are jumbled.
 
 # file: W2D1_CT 
 - contains some codeing task for practice.
